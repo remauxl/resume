@@ -1,2 +1,1 @@
-My own bio page
-https://yasins.me
+accessible via https://yasins.me
